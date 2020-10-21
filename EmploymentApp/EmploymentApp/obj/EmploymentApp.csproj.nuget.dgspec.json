@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lan pc rx480\\source\\repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {}
+    "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lan pc rx480\\source\\repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {
+    "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lan pc rx480\\source\\repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+        "projectUniqueName": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
         "projectName": "EmploymentApp",
-        "projectPath": "C:\\Users\\Lan pc rx480\\source\\repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
-        "packagesPath": "C:\\Users\\Lan pc rx480\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lan pc rx480\\source\\repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
+        "projectPath": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+        "packagesPath": "C:\\Users\\draef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lan pc rx480\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\draef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -37,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EmploymentApp",
+    "\\EmploymentApp\\EmploymentApp",
+    "\\EmploymentApp\\EmploymentApp\\Controllers",
+    "\\EmploymentApp\\EmploymentApp\\Models",
+    "\\EmploymentApp\\EmploymentApp\\obj",
+    "\\EmploymentApp\\EmploymentApp\\obj\\Release",
+    "\\EmploymentApp\\EmploymentApp\\Views",
+    "\\EmploymentApp\\EmploymentApp\\Views\\Home"
   ],
+  "SelectedNode": "\\EmploymentApp\\EmploymentApp\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
