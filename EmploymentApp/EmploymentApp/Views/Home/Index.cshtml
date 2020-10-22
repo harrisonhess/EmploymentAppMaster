@@ -1,4 +1,14 @@
-﻿@model EmploymentApp.Models.Models.Applicant
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
 
-
-<a asp-action="Form">Click here to apply</a>
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Online Employment App</h1>
+    <hr />
+    <div>
+        <h3>Apply below</h3>
+        <p>Begin the employment application process</p>
+        <br />
+        <a asp-action="Form" class="btn btn-primary">Apply now</a>
+    </div>
+</div>

@@ -4,9 +4,9 @@
     ViewData["Title"] = "Form";
 }
 
-<h1>Form</h1>
+<h1>Employment Application</h1> <!--EVERYTHING HERE IS SUBJECT TO BE REPLACED, DO NOT CHANGE UNTIL APPLICANT MODEL IS FINISHED-->
 
-<h4>Applicant</h4>
+<h4>Please fill below</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -78,6 +78,56 @@
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="DaysAvailable" class="control-label"></label>
+                <input asp-for="DaysAvailable" class="form-control" />
+                <span asp-validation-for="DaysAvailable" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DesiredEmployment" class="control-label"></label>
+                <input asp-for="DesiredEmployment" class="form-control" />
+                <span asp-validation-for="DesiredEmployment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoursAvailable" class="control-label"></label>
+                <input asp-for="HoursAvailable" class="form-control" />
+                <span asp-validation-for="HoursAvailable" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="WorkNights" /> @Html.DisplayNameFor(model => model.WorkNights)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="FiredBefore" /> @Html.DisplayNameFor(model => model.FiredBefore)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="CrimeBefore" /> @Html.DisplayNameFor(model => model.CrimeBefore)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CrimeType" class="control-label"></label>
+                <input asp-for="CrimeType" class="form-control" />
+                <span asp-validation-for="CrimeType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="References" class="control-label"></label>
+                <input asp-for="References" class="form-control" />
+                <span asp-validation-for="References" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DriversLicense" /> @Html.DisplayNameFor(model => model.DriversLicense)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="DLNum" class="control-label"></label>
+                <input asp-for="DLNum" class="form-control" />
+                <span asp-validation-for="DLNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
@@ -85,6 +135,6 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Back to Home</a>
 </div>
 
