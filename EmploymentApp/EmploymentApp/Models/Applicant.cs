@@ -6,8 +6,6 @@ namespace EmploymentApp.Models.Models
 {
     public class Applicant
     {
-        [Key]
-        public int Id { get; set; }
 
         [Required(ErrorMessage = "Please enter first name")]
         public string FirstName { get; set; }

@@ -108,4 +108,4 @@ C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\
 C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.dll
 C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.pdb
 C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.genruntimeconfig.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\New.cshtml.g.cs
+C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs

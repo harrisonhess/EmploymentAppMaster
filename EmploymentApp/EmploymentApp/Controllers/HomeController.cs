@@ -17,19 +17,20 @@ namespace EmploymentApp.Controllers
         {
             return View();
         }
-
-        public IActionResult New()
+        public IActionResult Form()
         {
             return View();
         }
+ 
+
 
         [HttpPost]  
         [ValidateAntiForgeryToken]  
-        public IActionResult New(Applicant applicant)  
+        public IActionResult Form(Applicant applicant)  
         {  
             if (ModelState.IsValid)  
             {  
-                RedirectToAction("Index");  
+                RedirectToAction("Form");  
             }  
             return View();  
         }  
