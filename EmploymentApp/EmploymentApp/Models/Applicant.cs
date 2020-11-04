@@ -63,6 +63,52 @@ namespace EmploymentApp.Models.Models
         [EmailAddress(ErrorMessage = "Invalid Email Address")]
         public string Email { get; set; }
 
+        [Display(Name = "Desired Salary")]
+        public decimal DesiredSalary { get; set; } //Changed from Double to Decimal
+
+        [Display(Name = "Emergency Contact First Name")]
+        public string EmergencyFirstName { get; set; }
+
+        [Display(Name = "Emergency Contact Middle Name")]
+        public string EmergencyMiddleName { get; set; }
+
+        [Display(Name = "Emergency Contact Last Name")]
+        public string EmergencyLastName { get; set; }
+
+        [Display(Name = "Emergency Address")]
+        public string EmergencyAddressStreet { get; set; }
+
+        [Display(Name = "Emergency City")]
+        public string EmergencyAddressCity { get; set; }
+
+        [Display(Name = "Emergency State")]
+        public string EmergencyAddressState { get; set; }
+
+        [Display(Name = "Emergency Zip")]
+        public string EmergencyAddressZip { get; set; }
+
+        [Display(Name = "Emergency Phone")]
+        [Phone]
+        public string EmergencyPhoneNumber { get; set; }
+
+        [Display(Name = "Emergency Email address")]
+        [EmailAddress]
+        public string EmergencyEmail { get; set; }
+
+        [Display(Name = "Emergency Relationship")]
+        public string EmergencyRelationship { get; set; }
+
+        [Display(Name = "Medical History")]
+        public string[] MedicalHistory { get; set; }
+
+        [Display(Name = "Race")]
+        [Required(ErrorMessage = "Please enter your race")]
+        public string[] Race { get; set; }
+
+        [Display(Name = "Gender")]
+        [Required(ErrorMessage = "Please enter your gender")]
+        public string[] Gender { get; set; }
+
         [Display(Name = "Days available to work")]
         public string DaysAvailable { get; set; }
 

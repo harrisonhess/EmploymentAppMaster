@@ -219,7 +219,6 @@ C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentAp
 C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.dll
 C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.pdb
 C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.genruntimeconfig.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -331,3 +330,4 @@ C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.dll
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.pdb
 C:\Users\sum41_000\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.genruntimeconfig.cache
+C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs
