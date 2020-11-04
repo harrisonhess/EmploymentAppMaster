@@ -128,8 +128,59 @@
                 <span asp-validation-for="DLNum" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="DLIssueState" class="control-label"></label>
+                <input asp-for="DLIssueState" class="form-control" />
+                <span asp-validation-for="DLIssueState" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DLExpireDate" class="control-label"></label>
+                <input asp-for="DLExpireDate" class="form-control" />
+                <span asp-validation-for="DLExpireDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="MilitaryService" /> @Html.DisplayNameFor(model => model.MilitaryService)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="MilitaryDischarge" /> @Html.DisplayNameFor(model => model.MilitaryDischarge)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="YearServed" class="control-label"></label>
+                <input asp-for="YearServed" class="form-control" />
+                <span asp-validation-for="YearServed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MilitaryBranch" class="control-label"></label>
+                <input asp-for="MilitaryBranch" class="form-control" />
+                <span asp-validation-for="MilitaryBranch" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TrafficAccident" class="control-label"></label>
+                <input asp-for="TrafficAccident" class="form-control" />
+                <span asp-validation-for="TrafficAccident" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TrafficViolation" class="control-label"></label>
+                <input asp-for="TrafficViolation" class="form-control" />
+                <span asp-validation-for="TrafficViolation" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DrinkAndDrive" /> @Html.DisplayNameFor(model => model.DrinkAndDrive)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DistractedDrive" /> @Html.DisplayNameFor(model => model.DistractedDrive)
+                </label>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
+
         </form>
     </div>
 </div>
