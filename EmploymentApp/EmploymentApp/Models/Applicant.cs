@@ -119,10 +119,10 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "Traffic Violations in the past 3 years?")]
         public int TrafficViolation { get; set; }
 
-        [Display(Name = "Were you stopped for suspicon of drinking and driving?")]
+        [Display(Name = "Were you stopped for suspicion of drinking and driving?")]
         public bool DrinkAndDrive { get; set; }
         
-        [Display(Name = "Were you stopped for suspicon of distracted driving?")]
+        [Display(Name = "Were you stopped for suspicion of distracted driving?")]
         public bool DistractedDrive { get; set; }
     }
 }
