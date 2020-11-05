@@ -20,6 +20,11 @@ namespace EmploymentApp.Models.Models
         [CustomAdmissionDate(ErrorMessage = "Date must be less than or equal to Today's Date.")]
         public DateTime AdmissionDate { get; set; }
 
+        [Required(ErrorMessage = "Please choose date.")]
+        [Display(Name = "Date Available to Work")]
+        [DataType(DataType.Date)]
+        public DateTime StartDate { get; set; }
+
         [Display(Name = "Address")]
         [Required(ErrorMessage = "Please enter street address")]
         public string AddressStreet { get; set; }//changed address types to multiple fields
@@ -130,7 +135,7 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "If so, what?")]
         public string CrimeType { get; set; }
 
-        [Display(Name = "References (email)")]
+        [Display(Name = "Reference email")]
         public string References { get; set; }
 
         [Display(Name = "Do you have a driver's license?")]
@@ -153,7 +158,7 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "Where you honorably discharged?")]
         public bool MilitaryDischarge { get; set; }
 
-        [Display(Name = "Hours weekly able to work")]
+        [Display(Name = "Years Served")]
         public int YearServed { get; set; }
 
         [Display(Name = "Military Branch (Army, Marines, Navy, Air Force, Coast Guard)")]
@@ -170,5 +175,25 @@ namespace EmploymentApp.Models.Models
         
         [Display(Name = "Were you stopped for suspicion of distracted driving?")]
         public bool DistractedDrive { get; set; }
+
+        [Display(Name = "Phone")]
+        [Phone]
+        [Required(ErrorMessage = "Please enter a phone number")]
+        public string ReferencePhoneNumber { get; set; }
+
+        [Display(Name = "Employer Name")]
+        public string EmployerName{ get; set; }
+
+        [Display(Name = "Employer City")]
+        public string EmployerCity { get; set; }
+
+        [Display(Name = "State")]
+        public string EmployerState { get; set; }
+
+        [Display(Name = "Zip")]
+        public string EmployerZip { get; set; }
+
+        //noah there above are employer and your data fields are employer they should be put into the 
+        //appropriate location in the view
     }
 }
