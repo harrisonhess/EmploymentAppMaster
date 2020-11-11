@@ -98,7 +98,7 @@ namespace EmploymentApp.Models.Models
 
         [Display(Name = "Do you have a driver's license?")]
         public bool DriversLicense { get; set; }
-                
+
         [Display(Name = "Currently own a vehicle?")]
         public bool OwnCar { get; set; }
 
@@ -120,5 +120,20 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "Graduation Date")]
         [DataType(DataType.Date)]
         public DateTime GraduationDate { get; set; }
+
+
+        [Display(Name = "Duties Performed, Skills Used, etc")]
+        public string Tasks { get; set; }
+        
+        [Display(Name = "Contact Employer")]
+        public bool ContactEmployer { get; set; }
+
+        [Display(Name = "Current Marital Status")]
+        public string MaritalStatus { get; set; }
+
+
+        [Display(Name = "Salary")]
+        public double Salary { get; set; }
+        
     }
 }
