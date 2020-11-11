@@ -193,6 +193,31 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "Zip")]
         public string EmployerZip { get; set; }
 
+        [Display(Name = "Phone")]
+        [Phone]
+        [Required(ErrorMessage = "Please enter a phone number")]
+        public string EmployerNumber { get; set; }
+
+        [Display(Name = "Employer Email address")]
+        [EmailAddress]
+        public string EmployerEmail { get; set; }
+
+        [Display(Name = "Supervisor Name")]
+        public string SupervisorName { get; set; }
+
+        [Display(Name = "Last Job Title")]
+        public string JobTitle { get; set; }
+
+        [Required(ErrorMessage = "Please choose date.")]
+        [Display(Name = "Employment start date:")]
+        [DataType(DataType.Date)]
+        public DateTime EmploymentDateFrom { get; set; }
+        
+        [Required(ErrorMessage = "Please choose date.")]
+        [Display(Name = "Employment end date:")]
+        [DataType(DataType.Date)]
+        public DateTime EmploymentDateTo { get; set; }
+
         //noah there above are employer and your data fields are employer they should be put into the 
         //appropriate location in the view
 

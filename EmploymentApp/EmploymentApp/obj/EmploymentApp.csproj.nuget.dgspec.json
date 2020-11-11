@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {}
+    "C:\\Users\\sum41_000\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {
+    "C:\\Users\\sum41_000\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+        "projectUniqueName": "C:\\Users\\sum41_000\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
         "projectName": "EmploymentApp",
-        "projectPath": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
+        "projectPath": "C:\\Users\\sum41_000\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+        "packagesPath": "C:\\Users\\sum41_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sum41_000\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sum41_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
