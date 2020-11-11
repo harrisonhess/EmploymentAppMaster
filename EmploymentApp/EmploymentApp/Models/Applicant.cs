@@ -81,16 +81,44 @@ namespace EmploymentApp.Models.Models
         [Display(Name = "Convicted of a crime?")]
         public bool CrimeBefore { get; set; }
 
+        [Display(Name = "Date convicted of a crime?")]
+        [DataType(DataType.Date)]
+        [Required(ErrorMessage = "Please enter address city")]
+        [CustomAdmissionDate(ErrorMessage = "Date must be less than or equal to Today's Date.")]
+        public DateTime CrimeDate { get; set; }
+
         [Display(Name = "If so, what?")]
         public string CrimeType { get; set; }
 
         [Display(Name = "References (email)")]
         public string References { get; set; }
 
+        [Display(Name = "References (Name, Title, Company, Address)")]
+        public string ReferencesEmployers { get; set; }
+
         [Display(Name = "Do you have a driver's license?")]
         public bool DriversLicense { get; set; }
+                
+        [Display(Name = "Currently own a vehicle?")]
+        public bool OwnCar { get; set; }
+
+        [Display(Name = "Own Insurance?")]
+        public bool Insurance { get; set; }
+
+        [Display(Name = "Make/Model/Year ")]
+        public string MakeModelYear { get; set; }
 
         [Display(Name = "Driver's license #")]
         public string DLNum { get; set; }
+
+        [Display(Name = "Willing to Drive a personal vehicle?")]
+        public bool PersonalVehicle { get; set; }
+
+        [Display(Name = "School Name/City/Major, Degree, Certificate ")]
+        public string Credentials { get; set; }
+
+        [Display(Name = "Graduation Date")]
+        [DataType(DataType.Date)]
+        public DateTime GraduationDate { get; set; }
     }
 }

@@ -1,222 +1,333 @@
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.exe
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csprojAssemblyReference.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorAssemblyInfo.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorAssemblyInfo.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.AssemblyInfoInputs.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.AssemblyInfo.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.TagHelpers.input.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.TagHelpers.output.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorCoreGenerate.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorTargetAssemblyInfo.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorTargetAssemblyInfo.cs
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\staticwebassets\EmploymentApp.StaticWebAssets.Manifest.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\staticwebassets\EmploymentApp.StaticWebAssets.xml
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.deps.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.runtimeconfig.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.runtimeconfig.dev.json
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.pdb
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.Views.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.Views.pdb
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csproj.CoreCompileInputs.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.Views.pdb
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csproj.CopyComplete
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.dll
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.pdb
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.genruntimeconfig.cache
-C:\Users\draef\Source\Repos\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.exe
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.deps.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.runtimeconfig.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.runtimeconfig.dev.json
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.pdb
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.Views.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\EmploymentApp.Views.pdb
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csprojAssemblyReference.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.AssemblyInfoInputs.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.AssemblyInfo.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csproj.CoreCompileInputs.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorAssemblyInfo.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorAssemblyInfo.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.TagHelpers.input.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.TagHelpers.output.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorCoreGenerate.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorTargetAssemblyInfo.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.RazorTargetAssemblyInfo.cs
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.Views.pdb
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.csproj.CopyComplete
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\staticwebassets\EmploymentApp.StaticWebAssets.Manifest.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\staticwebassets\EmploymentApp.StaticWebAssets.xml
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.dll
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.pdb
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\EmploymentApp.genruntimeconfig.cache
-C:\Users\Lan pc rx480\source\repos\harrisonhess\EmploymentAppMaster\EmploymentApp\EmploymentApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.exe
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csprojAssemblyReference.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfoInputs.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfo.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.input.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.output.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorCoreGenerate.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cs
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.Manifest.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.xml
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.deps.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.dev.json
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.pdb
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CoreCompileInputs.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CopyComplete
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.dll
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.pdb
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.genruntimeconfig.cache
+C:/Users/draef/Source/Repos/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Form.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.exe
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.deps.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.dev.json
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.pdb
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csprojAssemblyReference.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfoInputs.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfo.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CoreCompileInputs.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.input.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.output.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorCoreGenerate.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cs
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CopyComplete
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.Manifest.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.xml
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.dll
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.pdb
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.genruntimeconfig.cache
+C:/Users/Lan pc rx480/source/repos/harrisonhess/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Form.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/appsettings.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.deps.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.runtimeconfig.dev.json
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.pdb
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csprojAssemblyReference.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.AssemblyInfo.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorAssemblyInfo.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.input.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.TagHelpers.output.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorCoreGenerate.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Form.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.RazorTargetAssemblyInfo.cs
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.Views.pdb
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.csproj.CopyComplete
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.Manifest.cache
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/staticwebassets/EmploymentApp.StaticWebAssets.xml
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.dll
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.pdb
+/home/gabriel/Desktop/EmploymentAppMaster/EmploymentApp/EmploymentApp/obj/Debug/netcoreapp3.1/EmploymentApp.genruntimeconfig.cache

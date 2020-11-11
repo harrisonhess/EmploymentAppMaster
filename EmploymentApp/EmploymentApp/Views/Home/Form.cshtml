@@ -4,7 +4,8 @@
     ViewData["Title"] = "Form";
 }
 
-<h1>Employment Application</h1> <!--EVERYTHING HERE IS SUBJECT TO BE REPLACED, DO NOT CHANGE UNTIL APPLICANT MODEL IS FINISHED-->
+<h1>Employment Application</h1>
+<!--EVERYTHING HERE IS SUBJECT TO BE REPLACED, DO NOT CHANGE UNTIL APPLICANT MODEL IS FINISHED-->
 
 <h4>Please fill below</h4>
 <hr />
@@ -94,18 +95,26 @@
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
-                    <input class="form-check-input" asp-for="WorkNights" /> @Html.DisplayNameFor(model => model.WorkNights)
+                    <input class="form-check-input" asp-for="WorkNights" /> @Html.DisplayNameFor(model =>
+                                                                                   model.WorkNights)
                 </label>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
-                    <input class="form-check-input" asp-for="FiredBefore" /> @Html.DisplayNameFor(model => model.FiredBefore)
+                    <input class="form-check-input" asp-for="FiredBefore" /> @Html.DisplayNameFor(model =>
+                                                                                    model.FiredBefore)
                 </label>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
-                    <input class="form-check-input" asp-for="CrimeBefore" /> @Html.DisplayNameFor(model => model.CrimeBefore)
+                    <input class="form-check-input" asp-for="CrimeBefore" /> @Html.DisplayNameFor(model =>
+                                                                                    model.CrimeBefore)
                 </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CrimeDate" class="control-label"></label>
+                <input asp-for="CrimeDate" class="form-control" />
+                <span asp-validation-for="CrimeDate" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="CrimeType" class="control-label"></label>
@@ -117,9 +126,27 @@
                 <input asp-for="References" class="form-control" />
                 <span asp-validation-for="References" class="text-danger"></span>
             </div>
+            <div class="form-group">
+                <label asp-for="ReferencesEmployers" class="control-label"></label>
+                <input asp-for="ReferencesEmployers" class="form-control" />
+                <span asp-validation-for="ReferencesEmployers" class="text-danger"></span>
+            </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
-                    <input class="form-check-input" asp-for="DriversLicense" /> @Html.DisplayNameFor(model => model.DriversLicense)
+                    <input class="form-check-input" asp-for="DriversLicense" /> @Html.DisplayNameFor(model =>
+                                                                                       model.DriversLicense)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="OwnCar" /> @Html.DisplayNameFor(model =>
+                                                                               model.OwnCar)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Insurance" /> @Html.DisplayNameFor(model =>
+                                                                                  model.Insurance)
                 </label>
             </div>
             <div class="form-group">
@@ -127,6 +154,27 @@
                 <input asp-for="DLNum" class="form-control" />
                 <span asp-validation-for="DLNum" class="text-danger"></span>
             </div>
+            <div class="form-group">
+                <label asp-for="MakeModelYear" class="control-label"></label>
+                <input asp-for="MakeModelYear" class="form-control" />
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="PersonalVehicle" /> @Html.DisplayNameFor(model =>
+                                                                                        model.PersonalVehicle)
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Credentials" class="control-label"></label>
+                <input asp-for="Credentials" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="GraduationDate" class="control-label"></label>
+                <input asp-for="GraduationDate" class="form-control" />
+            </div>
+
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
@@ -137,4 +185,3 @@
 <div>
     <a asp-action="Index">Back to Home</a>
 </div>
-
