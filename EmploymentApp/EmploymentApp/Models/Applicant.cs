@@ -195,5 +195,33 @@ namespace EmploymentApp.Models.Models
 
         //noah there above are employer and your data fields are employer they should be put into the 
         //appropriate location in the view
+
+        [Display(Name = "Have any children?")]
+        public bool HasChildren { get; set; }
+
+        [Display(Name = "How many children?")]
+        public int NumOfChildren { get; set; }
+
+        //Days of work missed due to a child's illness/out of school?
+        [Display(Name = "Past month?")]
+        public int WorkMissedPastMonth { get; set; }
+
+        [Display(Name = "Past six months?")]
+        public int WorkMissedPastSixMonths { get; set; }
+
+        [Display(Name = "Past year?")]
+        public int WorkMissedPastYear { get; set; }
+
+        // Do you currently have health insurance?
+        // Changed from string to seperate boolean fields for yourself/spouse/children.
+
+        [Display(Name = "Yourself")]
+        public bool HaveHealthInsuranceYourself { get; set; }
+
+        [Display(Name = "Spouse")]
+        public bool HaveHealthInsuranceSpouse { get; set; }
+
+        [Display(Name = "Children")]
+        public bool HaveHealthInsuranceChildren { get; set; }
     }
 }

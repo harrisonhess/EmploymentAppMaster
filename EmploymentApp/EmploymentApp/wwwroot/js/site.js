@@ -2,3 +2,13 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
+$(function () {
+    $("#HasChildren").click(function () {
+        if ($(this).is(":checked")) {
+            $("#NumOfChildren").show();
+        } else {
+            $("#NumOfChildren").hide();
+        }
+    });
+});

@@ -349,6 +349,55 @@
             </div>
 
 
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" id="HasChildren" asp-for="HasChildren" /> @Html.DisplayNameFor(model => model.HasChildren)
+                </label>
+            </div>
+            <div class="form-group" id="NumOfChildren" style="display: none;">
+                <label asp-for="NumOfChildren" class="control-label"></label>
+                <input asp-for="NumOfChildren" class="form-control" min="0" oninput="this.value = Math.abs(this.value)" />
+                <span asp-validation-for="NumOfChildren" class="text-danger"></span>
+            </div>
+
+            <h5>Days of Work Missed Due to Child Illness/Out of School?</h5>
+            <div class="form-row">
+                <div class="form-group">
+                    <label asp-for="WorkMissedPastMonth" class="control-label"></label>
+                    <input asp-for="WorkMissedPastMonth" class="form-control" min="0" oninput="this.value = Math.abs(this.value)" />
+                    <span asp-validation-for="WorkMissedPastMonth" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WorkMissedPastSixMonths" class="control-label"></label>
+                    <input asp-for="WorkMissedPastSixMonths" class="form-control" min="0" oninput="this.value = Math.abs(this.value)" />
+                    <span asp-validation-for="WorkMissedPastSixMonths" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WorkMissedPastYear" class="control-label"></label>
+                    <input asp-for="WorkMissedPastYear" class="form-control" min="0" oninput="this.value = Math.abs(this.value)" />
+                    <span asp-validation-for="WorkMissedPastYear" class="text-danger"></span>
+                </div>
+            </div>
+
+            <h5>Do You Currently Have Health Insurance for: </h5>
+            <div class="form-row">
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="HaveHealthInsuranceYourself" /> @Html.DisplayNameFor(model => model.HaveHealthInsuranceYourself)
+                    </label>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="HaveHealthInsuranceSpouse" /> @Html.DisplayNameFor(model => model.HaveHealthInsuranceSpouse)
+                    </label>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="HaveHealthInsuranceChildren" /> @Html.DisplayNameFor(model => model.HaveHealthInsuranceChildren)
+                    </label>
+                </div>
+            </div>
+
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
