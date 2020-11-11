@@ -6069,23 +6069,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\draef\\.nuget\\packages\\": {},
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
       "projectName": "EmploymentApp",
-      "projectPath": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
-      "packagesPath": "C:\\Users\\draef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\draef\\Source\\Repos\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
+      "projectPath": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\EmploymentApp.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Source\\Repos\\harrisonhess\\EmploymentAppMaster\\EmploymentApp\\EmploymentApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\draef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6133,7 +6133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
